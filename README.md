@@ -4,7 +4,9 @@
 
 для камеры:
 
-  ```pip install opencv-python```  
+  ```shell
+  pip install opencv-python
+  ```  
 
 для распознавания qr:
 
