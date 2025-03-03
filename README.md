@@ -6,7 +6,7 @@
 
   ```pip install opencv-python```  
 
-для qr:
+для распознавания qr:
 
   ```pip install pyzbar```  
 
