@@ -10,7 +10,9 @@
 
 для распознавания qr:
 
-  ```pip install pyzbar```  
+  ```shell
+  pip install pyzbar
+  ```  
 
   
 остальные библиотеки базово установлены.
