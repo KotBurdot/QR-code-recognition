@@ -4,11 +4,11 @@
 
 для камеры:
 
-  ```pip install opencv-python```
+  ```pip install opencv-python```  
 
 для qr:
 
-  ```pip install pyzbar```
+  ```pip install pyzbar```  
 
   
 остальные библиотеки базово установлены.
